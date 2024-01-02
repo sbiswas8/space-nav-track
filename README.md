@@ -18,5 +18,5 @@ This repository has 4 folders:
 2. Add **estimation-algorithms** folder to MATLAB path. See how to add a folder in the MATLAB path [here](https://in.mathworks.com/help/matlab/ref/path.html)
 3. Run the example scripts
 
-## Additional codes:
+## Additional codes
 The **estimation-algorithms** folder contains a particle filter example that is not included in the book.

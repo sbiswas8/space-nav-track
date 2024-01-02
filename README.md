@@ -16,3 +16,4 @@ This repository has 4 folders:
 ## Using the repository:
 1. Clone the repository to the local workstation
 2. Add **estimation-algorithms** folder to MATLAB path. See how to add a folder in the MATLAB path [here](https://in.mathworks.com/help/matlab/ref/path.html)
+3. Run the example scripts

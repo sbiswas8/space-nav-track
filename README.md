@@ -11,7 +11,7 @@ This repository has 4 folders:
     - **reentry:** contains MATLAB codes and data corresponding to the reentry vehicle tracking example provided in Chapter 6 section 4.1
     - **launch:** contains MATLAB codes and data corresponding to the launch vehicle navigation example provided in Chapter 6 section 4.2
 - **chapter_7:** contains MATLAB codes and data corresponding to the tracking of spacecraft in a lunar transfer trajectory example provided in Chapter 7 section 6
--**estimation-algorithms:** contains the MATLAB implementations of the Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), Single Propagation Unscented Kalman Filter (SPUKF), Extrapolated Single Propagation Unscented Kalman Filter (ESPUKF), particle filter and Extrapolated Single Propagation Particle Filter (ESP-PF). The code descriptions are provided in Chapter 4 section 7
+- **estimation-algorithms:** contains the MATLAB implementations of the Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), Single Propagation Unscented Kalman Filter (SPUKF), Extrapolated Single Propagation Unscented Kalman Filter (ESPUKF), particle filter and Extrapolated Single Propagation Particle Filter (ESP-PF). The code descriptions are provided in Chapter 4 section 7
 
 ## Using the repository
 1. Clone the repository to the local workstation

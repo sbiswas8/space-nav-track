@@ -1,6 +1,6 @@
 # [Navigation and tracking in space: Analysis and Algorithms](https://uk.artechhouse.com/Navigation-and-Tracking-in-Space-Analysis-and-Algorithms-P2215.aspx)
 
-## by Sanat K. Biswas and Andrew G. Dempster
+## by [Sanat K. Biswas](https://ssl.iiitd.edu.in/author/sanat-k-biswas/) and [Andrew G. Dempster](https://www.unsw.edu.au/staff/andrew-dempster)
 
 This is the repository of the accompanying MATLAB codes for the Book Navigation and Tracking in Space: Analysis and Algorithms.
 

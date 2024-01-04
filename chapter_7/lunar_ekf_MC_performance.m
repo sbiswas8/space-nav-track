@@ -1,7 +1,7 @@
 clc
 clear all
 close all
-load MC_results_280323
+load MC_results_280323 % provide the path to the MC_results file
 
 n_run = 20;
 dim = size(MC_results(1).error);

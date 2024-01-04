@@ -1,0 +1,2 @@
+## Instructions for running code for tracking a spacecraft in lunar transfer trajectory
+Run lunar_EKF_tracking.m file to run the example. Note that this code does not use the EKF function provided in the estimation-algorithms folder.

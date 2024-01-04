@@ -1,0 +1,2 @@
+## Instructions for running GPS-based LEO satellite navigation code
+Run estimation.m to run all the estimators for various orbits. Individual estimators can be run for specific orbits using KF_sim.m function. Refer to Chapter 5, section 4 for detailed description of this function

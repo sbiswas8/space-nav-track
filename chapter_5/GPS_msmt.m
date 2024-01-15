@@ -10,7 +10,7 @@ for i = 1:NS
         eph = GPSPVT.EPH(:,PRN);
         t_trans = gpst;
         for itr = 1:3
-            dt = check_t(t_trans - eph(21));
+            dt = gps_time_repair(t_trans - eph(21));
             t_s = eph(19) + eph(20)*dt + eph(2)*dt^2 - relativistic(t_trans,eph);
             t_trans = gpst - GPSPVT.R(i)/c - t_s;
         end

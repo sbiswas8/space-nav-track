@@ -1,11 +1,11 @@
 clc
 clear all
-addpath('./UKFs')
+addpath('../estimation-algorithms')
 profile off
 dbstop error
-obs_data(1).add = 'C:\Users\Sanat\Dropbox\PhD\Elliptical_orbit\Ecc1\ecc1_data.mat';
-obs_data(2).add = 'C:\Users\Sanat\Dropbox\PhD\Elliptical_orbit\Ecc2\ecc2_data.mat';
-obs_data(3).add = 'C:\Users\Sanat\Dropbox\PhD\Elliptical_orbit\Ecc3\ecc3_data.mat';
+obs_data(1).add = './Ecc1/ecc1_data.mat';
+obs_data(2).add = './Ecc2/ecc2_data.mat';
+obs_data(3).add = './Ecc3/ecc3_data.mat';
 
 SAT_INI.NS = 8;
 SAT_INI.STD = [5 5 5 1 1 1 0.1];

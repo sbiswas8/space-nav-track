@@ -1,6 +1,6 @@
 clc
 clear all
-addpath('../estimation-algorithms')
+addpath(genpath('../estimation-algorithms'))
 profile off
 dbstop error
 obs_data(1).add = './Ecc1/ecc1_data.mat';
